@@ -37,15 +37,30 @@
 
 ---
 <details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Mat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mathew-harvey&show_icons=true&hide_border=true" />
+<img align="left" alt="Mat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mathew-harvey&show_icons=true&hide_border=true" />
   
 
 </details>
 
 ---
+<details>
+<summary>:zap: Most used languages</summary>
 
+<img align="left" alt="Mat's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathew-harvey&langs_count=8" />
+
+</details>
+
+---
+---
+<details>
+<summary>:zap: Weekly Coding Stats</summary>
+
+<img align="left" alt="Mat's Coding Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathew-harvey" />
+
+
+---
 ### 📺 Latest Applications
 
 <!-- YOUTUBE:START -->
