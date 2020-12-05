@@ -61,12 +61,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.mathew-harvey.vercel.app/api?username=mathew-harvey&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://www.thebodyweightgym.net/the-bodyweight-gym-online
 [youtube]: https://www.youtube.com/channel/UCsmQBMATmOL14n-v53jug8Q
