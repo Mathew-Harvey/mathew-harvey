@@ -5,7 +5,7 @@
 
 ## I'm a Husband, Father, Developer, and Gym Owner!!
 
-- 🌱 I’m currently learning Webdevelopment\
+- 🌱 I’m currently learning Webdevelopment
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Work with inspiring developers, building creative solutions for ethical business
 - ⚡ Fun fact: I love to fly FPV drones and enjoy handbalancing
@@ -34,6 +34,15 @@
 
 <br />
 <br />
+
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.mathew-harvey.vercel.app/api?username=mathew-harvey&show_icons=true&hide_border=true" />
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mathew-harvey)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
 
 ---
 
