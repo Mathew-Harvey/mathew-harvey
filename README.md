@@ -53,13 +53,12 @@
 </details>
 
 ---
----
 <details>
 <summary>:zap: Weekly Coding Stats</summary>
 
-<img align="left" alt="Mat's Coding Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathew-harvey" />
+<img align="left" alt="Mat's Coding Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathewharvey" />
 
-
+</details>
 ---
 ### 📺 Latest Applications
 
