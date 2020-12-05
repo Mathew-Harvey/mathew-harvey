@@ -39,8 +39,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.mathew-harvey.vercel.app/api?username=mathew-harvey&show_icons=true&hide_border=true" />
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mathew-harvey)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="Mat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mathew-harvey&show_icons=true&hide_border=true" />
+  
 
 </details>
 
