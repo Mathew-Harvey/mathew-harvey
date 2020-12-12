@@ -71,7 +71,7 @@
 ## Wishlist
 ![WISHLIST](/assets/wishlistdemo.gif) <br> [mathew-harvey/wishlist](https://github.com/Mathew-Harvey/wish-list)
 ## Cellular Automaton
-![GAMEOFLIFE](/assets/gol.gif) <br> [mathew-harvey/game_of_life](https://github.com/Mathew-Harvey/[mathew-harvey/game_of_life)
+![GAMEOFLIFE](/assets/gol.gif) <br> [Mathew-Harvey/game_of_life](https://github.com/Mathew-Harvey/game_of_life)
 
 
 ---
