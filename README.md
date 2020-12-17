@@ -72,6 +72,9 @@
 ![WISHLIST](/assets/wishlistdemo.gif) <br> [mathew-harvey/wishlist](https://github.com/Mathew-Harvey/wish-list)
 ## Cellular Automaton
 ![GAMEOFLIFE](/assets/gol.gif) <br> [Mathew-Harvey/game_of_life](https://github.com/Mathew-Harvey/game_of_life)
+## The Bodyweight Gym Chat
+![THEBODYWEIGHTGYMCHAT](/assets/CHAT.gif) <br> [Mathew-Harvey/feathers_chat](https://github.com/Mathew-Harvey/feathers_chat)
+
 
 
 ---
