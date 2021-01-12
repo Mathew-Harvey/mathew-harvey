@@ -1,6 +1,6 @@
 ### Hi there, I'm Mat - aka [mathew-harvey][website] 👋
 
-[![Website](https://img.shields.io/website?label=thebodyweightgym.net&style=for-the-badge&url=https%3A%2F%2Fthebodyweightgym.net)](https://www.thebodyweightgym.net/the-bodyweight-gym-online)
+[![Website](https://img.shields.io/website?label=thebodyweightgym.net&style=for-the-badge&url=https%3A%2F%2Fthebodyweightgym.net)](https://www.thebodyweightgym.net)
 
 
 ## I'm a Husband, Father, Developer, and Gym Owner!!
