@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=thebodyweightgym.net&style=for-the-badge&url=https%3A%2F%2Fthebodyweightgym.net)](https://www.thebodyweightgym.net)
 
 
-## I'm a Husband, Father, Developer, and Gym Owner!!
+## I'm a Husband, Father and Developer.
 
 - 🌱 I’m currently working with Rise-X, automating tomorrows administration problems
 - 👯 I’m looking to collaborate with other devs interested in building a better future
 - 🥅 2021 Goals: Work with inspiring developers, building creative solutions for ethical business - DONE!, 
-- 🥅 2021 NEW GOAL: Learn C# and Typescript
+- 🥅 2022 GOAL: Learn C# and Typescript
 - ⚡ Fun fact: I love to fly FPV drones and enjoy handbalancing
 
 ### Connect with me:
@@ -54,17 +54,12 @@
 </details>
 
 ---
-<details>
-<summary>:zap: Weekly Coding Stats</summary>
 
-<img align="left" alt="Mat's Coding Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathewharvey" />
-
-</details>
-
----
 ### 📺 Latest Applications
 
 <!-- YOUTUBE:START -->
+## agora powered video chat
+![WebRTC-test](/assets/webRTC.gif) <br> [Mathew-Harvey/WebRTC-test](https://github.com/Mathew-Harvey/WebRTC-test)
 ## webRTC chat 
 ![WebRTC-test](/assets/webRTC.gif) <br> [Mathew-Harvey/WebRTC-test](https://github.com/Mathew-Harvey/WebRTC-test)
 ## Portfolio
