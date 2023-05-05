@@ -8,7 +8,8 @@
 - 🌱 I’m currently working with Rise-X, automating tomorrows administration problems
 - 👯 I’m looking to collaborate with other devs interested in building a better future
 - 🥅 2021 Goals: Work with inspiring developers, building creative solutions for ethical business - DONE!, 
-- 🥅 2022 GOAL: Learn C# and Typescript
+- 🥅 2022 GOAL: Learn C# and Typescript - DONE!
+- 🥅 2023 Goal: Give Back. Back end C#
 - ⚡ Fun fact: I love to fly FPV drones and enjoy handbalancing
 
 ### Connect with me:
