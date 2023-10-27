@@ -1,6 +1,6 @@
 ### Hi there, I'm Mat - aka [mathew-harvey][website] 👋
 
-[![Website](https://img.shields.io/website?label=thebodyweightgym.net&style=for-the-badge&url=https%3A%2F%2Fthebodyweightgym.net)](https://www.thebodyweightgym.net)
+
 
 
 ## I'm a Husband, Father and Developer.
@@ -8,9 +8,9 @@
 - 🌱 I’m currently working with Rise-X, automating tomorrows administration problems
 - 👯 I’m looking to collaborate with other devs interested in building a better future
 - 🥅 2021 Goals: Work with inspiring developers, building creative solutions for ethical business - DONE!, 
-- 🥅 2022 GOAL: Learn C# and Typescript - DONE!
-- 🥅 2023 Goal: Give Back. Back end C#
-- ⚡ Fun fact: I love to fly FPV drones and enjoy handbalancing
+- 🥅 2022 GOAL: Learn C# and Typescript - DONE! 
+- 🥅 2023 Goal: Back end C#
+- ⚡ Fun fact: I love to fly, race and build FPV drones
 
 ### Connect with me:
 
