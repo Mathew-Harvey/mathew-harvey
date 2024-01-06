@@ -18,15 +18,15 @@
 ### 📺 Latest Applications
 
 ## Design Pattern Exploration in C#
-![DesignPatternsDemo](assets/singletonDP.gif) <br> [Mathew-Harvey/DesignPatternDemo](https://github.com/Mathew-Harvey/DesignPatternsDemo)
+![DesignPatternsDemo](/assets/singletonDP.gif) <br> [Mathew-Harvey/DesignPatternDemo](https://github.com/Mathew-Harvey/DesignPatternsDemo)
 ## Artificial Life
 ![Artificial-Life](/assets/complexity.gif) <br> [Mathew-Harvey/Artificial-Life](https://mathew-harvey.github.io/Artificial-Life/)
 ## My Life in Weeks
-![MyLifeInWeeks](/assets/myLifeinWeeks.gif) <br> [Mathew-Harvey/MyLifeInWeeks](https://github.com/Mathew-Harvey/MyLifeInWeeks)
+![MyLifeInWeeks](/assets/myLifeinWeeksDemo.gif) <br> [Mathew-Harvey/MyLifeInWeeks](https://github.com/Mathew-Harvey/MyLifeInWeeks)
 ## 3d Ship in a browser
 ![3dShip](/assets/3dShip.gif) <br> [Mathew-Harvey/3dShip](https://mathew-harvey.github.io/3dShip/)
 ## Server Side Image Blurring with C# libs
-![BlurredPhotos](/assets/blurimage.gif) <br> [Mathew-Harvey/BlurredPhotos](https://mathew-harvey.github.io/BlurredPhotos/)
+![BlurredPhotos](/assets/blurImage.gif) <br> [Mathew-Harvey/BlurredPhotos](https://mathew-harvey.github.io/BlurredPhotos/)
 ## agora powered video chat
 ![WebRTC-test](/assets/webRTC.gif) <br> [Mathew-Harvey/WebRTC-test](https://github.com/Mathew-Harvey/WebRTC-test)
 ## webRTC chat 
