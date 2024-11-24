@@ -5,7 +5,6 @@
 
 ## I'm a Husband, Father and Developer.
 
-- 🌱 I’m currently working with Rise-X, automating tomorrow's administration problems
 - 👯 I’m looking to collaborate with other devs interested in building a better future
 - 🥅 2021 Goals: Work with inspiring developers, building creative solutions for ethical business - DONE!, 
 - 🥅 2022 GOAL: Learn C# and Typescript - DONE! 
