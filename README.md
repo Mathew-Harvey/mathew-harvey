@@ -7,7 +7,7 @@
 Marine scientist turned software engineer.<br/>
 I build tools that bridge the gap between operational reality and digital efficiency.
 
-By day, I manage biofouling operations for the Royal Australian Navy and lead tech at **MarineStream**.<br/>
+By day, I manage biofouling operations for Franmarine and lead tech at **MarineStream**.<br/>
 By night, I'm automating something that shouldn't take as long as it does.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathew-harvey/)
