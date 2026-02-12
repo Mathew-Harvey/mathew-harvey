@@ -416,56 +416,20 @@ These GIFs exist in `assets` but are not currently mapped in the `projects` arra
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>AI Gym</h3>
-<img src="assets/AI-Gym.gif" alt="AI Gym preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
-</td>
-<td width="50%" valign="top">
-<h3>Avi Fullstackcode Workshop</h3>
-<img src="assets/Avi-fullstackcode-workshop.gif" alt="Avi Fullstackcode Workshop preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>Beatbox Craft</h3>
-<img src="assets/beatbox-craft.gif" alt="Beatbox Craft preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
-</td>
-<td width="50%" valign="top">
 <h3>BlurImage</h3>
 <img src="assets/blurImage.gif" alt="BlurImage preview" width="100%"/>
 <p><em>Standalone asset preview.</em></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3>Chat</h3>
 <img src="assets/chat.gif" alt="Chat preview" width="100%"/>
 <p><em>Standalone asset preview.</em></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>Complexity</h3>
 <img src="assets/complexity.gif" alt="Complexity preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>ComplexityOLD</h3>
-<img src="assets/complexityOLD.gif" alt="ComplexityOLD preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
-</td>
-<td width="50%" valign="top">
-<h3>DotnetAPILesson</h3>
-<img src="assets/dotnetAPILesson.gif" alt="DotnetAPILesson preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>FamilyBudgetTracking</h3>
-<img src="assets/FamilyBudgetTracking.gif" alt="FamilyBudgetTracking preview" width="100%"/>
 <p><em>Standalone asset preview.</em></p>
 </td>
 <td width="50%" valign="top">
@@ -476,68 +440,20 @@ These GIFs exist in `assets` but are not currently mapped in the `projects` arra
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>MoneyMachine</h3>
-<img src="assets/MoneyMachine.gif" alt="MoneyMachine preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
-</td>
-<td width="50%" valign="top">
-<h3>MongoDbCloneLocal</h3>
-<img src="assets/MongoDbCloneLocal.gif" alt="MongoDbCloneLocal preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>MsSubscriptionUI</h3>
-<img src="assets/MsSubscriptionUI.gif" alt="MsSubscriptionUI preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
-</td>
-<td width="50%" valign="top">
 <h3>MyLifeinWeeksDemo</h3>
 <img src="assets/myLifeinWeeksDemo.gif" alt="MyLifeinWeeksDemo preview" width="100%"/>
 <p><em>Standalone asset preview.</em></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3>Portfolio</h3>
 <img src="assets/Portfolio.gif" alt="Portfolio preview" width="100%"/>
 <p><em>Standalone asset preview.</em></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>SingletonDP</h3>
 <img src="assets/singletonDP.gif" alt="SingletonDP preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>StringSearchReplace</h3>
-<img src="assets/StringSearchReplace.gif" alt="StringSearchReplace preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
-</td>
-<td width="50%" valign="top">
-<h3>TempForKel</h3>
-<img src="assets/tempForKel.gif" alt="TempForKel preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>TempPricing</h3>
-<img src="assets/tempPricing.gif" alt="TempPricing preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
-</td>
-<td width="50%" valign="top">
-<h3>UUID Check And Correct</h3>
-<img src="assets/UUID_Check_and_Correct.gif" alt="UUID Check And Correct preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>UUID Find Replace</h3>
-<img src="assets/UUID_find_replace.gif" alt="UUID Find Replace preview" width="100%"/>
 <p><em>Standalone asset preview.</em></p>
 </td>
 <td width="50%" valign="top">
