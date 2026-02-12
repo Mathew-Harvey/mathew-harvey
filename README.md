@@ -13,7 +13,7 @@ From maritime biosecurity platforms to simulation tools, I focus on practical sy
 
 </div>
 
-> This README mirrors the layout from `index.html`: **Selected Work** + **Archive**.
+
 
 ## Selected Work
 
