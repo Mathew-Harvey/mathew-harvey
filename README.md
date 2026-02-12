@@ -8,7 +8,7 @@ I build software that protects ships, oceans, and the ecosystems between them.
 From maritime biosecurity platforms to simulation tools, I focus on practical systems that help teams move faster and make better decisions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathew-harvey/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://mathew-harvey.github.io/](https://mathew-harvey.github.io/2026Portfolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://mathew-harvey.github.io/2026Portfolio/)
 [![MarineStream](https://img.shields.io/badge/MarineStream-088395?style=for-the-badge&logo=anchor&logoColor=white)](https://www.marinestream.com.au/)
 
 </div>
