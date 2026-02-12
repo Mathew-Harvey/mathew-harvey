@@ -14,7 +14,6 @@ From maritime biosecurity platforms to simulation tools, I focus on practical sy
 </div>
 
 > This README mirrors the layout from `index.html`: **Selected Work** + **Archive**.
-> GitHub profile READMEs do not support reliable custom CSS/JS hover effects, so this uses a clean two-column card layout with clickable previews.
 
 ## Selected Work
 
@@ -417,56 +416,56 @@ These GIFs exist in `assets` but are not currently mapped in the `projects` arra
 <tr>
 <td width="50%" valign="top">
 <h3>BlurImage</h3>
-<img src="assets/blurImage.gif" alt="BlurImage preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
+<a href="https://mathew-harvey.github.io/blurImage/" target="_blank"><img src="assets/blurImage.gif" alt="BlurImage preview" width="100%"/></a>
+<p><strong>Live Demo:</strong> <a href="https://mathew-harvey.github.io/blurImage/" target="_blank">Open in new tab</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>Chat</h3>
-<img src="assets/chat.gif" alt="Chat preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
+<a href="https://mathew-harvey.github.io/chat/" target="_blank"><img src="assets/chat.gif" alt="Chat preview" width="100%"/></a>
+<p><strong>Live Demo:</strong> <a href="https://mathew-harvey.github.io/chat/" target="_blank">Open in new tab</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>Complexity</h3>
-<img src="assets/complexity.gif" alt="Complexity preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
+<a href="https://mathew-harvey.github.io/complexity/" target="_blank"><img src="assets/complexity.gif" alt="Complexity preview" width="100%"/></a>
+<p><strong>Live Demo:</strong> <a href="https://mathew-harvey.github.io/complexity/" target="_blank">Open in new tab</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>Gol</h3>
-<img src="assets/gol.gif" alt="Gol preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
+<a href="https://mathew-harvey.github.io/gol/" target="_blank"><img src="assets/gol.gif" alt="Gol preview" width="100%"/></a>
+<p><strong>Live Demo:</strong> <a href="https://mathew-harvey.github.io/gol/" target="_blank">Open in new tab</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>MyLifeinWeeksDemo</h3>
-<img src="assets/myLifeinWeeksDemo.gif" alt="MyLifeinWeeksDemo preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
+<a href="https://mathew-harvey.github.io/myLifeinWeeksDemo/" target="_blank"><img src="assets/myLifeinWeeksDemo.gif" alt="MyLifeinWeeksDemo preview" width="100%"/></a>
+<p><strong>Live Demo:</strong> <a href="https://mathew-harvey.github.io/myLifeinWeeksDemo/" target="_blank">Open in new tab</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>Portfolio</h3>
-<img src="assets/Portfolio.gif" alt="Portfolio preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
+<a href="https://mathew-harvey.github.io/Portfolio/" target="_blank"><img src="assets/Portfolio.gif" alt="Portfolio preview" width="100%"/></a>
+<p><strong>Live Demo:</strong> <a href="https://mathew-harvey.github.io/Portfolio/" target="_blank">Open in new tab</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>SingletonDP</h3>
-<img src="assets/singletonDP.gif" alt="SingletonDP preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
+<a href="https://mathew-harvey.github.io/singletonDP/" target="_blank"><img src="assets/singletonDP.gif" alt="SingletonDP preview" width="100%"/></a>
+<p><strong>Live Demo:</strong> <a href="https://mathew-harvey.github.io/singletonDP/" target="_blank">Open in new tab</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>WebRTC</h3>
-<img src="assets/webRTC.gif" alt="WebRTC preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
+<a href="https://mathew-harvey.github.io/webRTC/" target="_blank"><img src="assets/webRTC.gif" alt="WebRTC preview" width="100%"/></a>
+<p><strong>Live Demo:</strong> <a href="https://mathew-harvey.github.io/webRTC/" target="_blank">Open in new tab</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>Wishlistdemo</h3>
-<img src="assets/wishlistdemo.gif" alt="Wishlistdemo preview" width="100%"/>
-<p><em>Standalone asset preview.</em></p>
+<a href="https://mathew-harvey.github.io/wishlistdemo/" target="_blank"><img src="assets/wishlistdemo.gif" alt="Wishlistdemo preview" width="100%"/></a>
+<p><strong>Live Demo:</strong> <a href="https://mathew-harvey.github.io/wishlistdemo/" target="_blank">Open in new tab</a></p>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
