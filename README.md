@@ -1,494 +1,557 @@
-# Mat Harvey Portfolio
+<div align="center">
 
-This README mirrors the project layout in index.html with Selected Work and Archive sections, and includes every GIF in assets.
+# Mat Harvey
+
+### Software Engineer | Marine Scientist | CTO @ MarineStream
+
+I build software that protects ships, oceans, and the ecosystems between them.
+From maritime biosecurity platforms to simulation tools, I focus on practical systems that help teams move faster and make better decisions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathew-harvey-64b5891b8/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://mathew-harvey.github.io/)
+[![MarineStream](https://img.shields.io/badge/MarineStream-088395?style=for-the-badge&logo=anchor&logoColor=white)](https://www.marinestream.com.au/)
+
+</div>
+
+> This README mirrors the layout from `index.html`: **Selected Work** + **Archive**.
+> GitHub profile READMEs do not support reliable custom CSS/JS hover effects, so this uses a clean two-column card layout with clickable previews.
 
 ## Selected Work
 
-### MarineStream Platform
-![Preview](assets/temp-msdt-for-review.gif)
-
-A comprehensive web platform for marine vessel maintenance, underwater inspection, and biofouling management — serving the Royal Australian Navy fleet and commercial operators.
-
-**Links:** [Live Demo](https://temp-msdt-for-review.onrender.com) | [GitHub](https://github.com/Mathew-Harvey/temp-msdt-for-review)
-**Tech:** JavaScript, Node.js, PostgreSQL
-
-### Biofouling ID Guide
-![Preview](assets/BiofoulingIdGuide.gif)
-
-A visual field guide for identifying invasive marine species on vessel hulls, developed for commercial divers across Australia. Zero external dependencies.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/BiofoulingIdGuide/) | [GitHub](https://github.com/Mathew-Harvey/BiofoulingIdGuide)
-**Tech:** HTML, CSS, JavaScript
-
-### 3D Ship Visualization
-![Preview](assets/3dShip.gif)
-
-Interactive 3D ship model rendered in the browser using Three.js — explore vessel anatomy with orbit controls, lighting, and realistic materials.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/3dShip/) | [GitHub](https://github.com/Mathew-Harvey/3dShip)
-**Tech:** Three.js, JavaScript, WebGL
-
-### Fouling Cost Calculator
-![Preview](assets/FoulingCostCalculator.gif)
-
-Extends research from the University of Melbourne (Kevin et al., 2024) showing how even light fouling increases fuel use by 10%. Makes academic findings accessible for practical maritime decisions.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/FoulingCostCalculator/) | [GitHub](https://github.com/Mathew-Harvey/FoulingCostCalculator)
-**Tech:** HTML, JavaScript, Chart.js
-
-### FPV Track Planner
-![Preview](assets/FPVTrackPlanner.gif)
-
-A 3D track designer for FPV drone racing — build gates, obstacles, and racing lines in a WebGL environment with real-world scale.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/FPVTrackPlanner/) | [GitHub](https://github.com/Mathew-Harvey/FPVTrackPlanner)
-**Tech:** Three.js, JavaScript, WebGL
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>MarineStream Platform</h3>
+<a href="https://temp-msdt-for-review.onrender.com" target="_blank"><img src="assets/temp-msdt-for-review.gif" alt="MarineStream Platform preview" width="100%"/></a>
+<p>A comprehensive web platform for marine vessel maintenance, underwater inspection, and biofouling management — serving the Royal Australian Navy fleet and commercial operators.</p>
+<p><strong>Links:</strong> <a href="https://temp-msdt-for-review.onrender.com" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/temp-msdt-for-review" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> JavaScript | Node.js | PostgreSQL</p>
+</td>
+<td width="50%" valign="top">
+<h3>Biofouling ID Guide</h3>
+<a href="https://mathew-harvey.github.io/BiofoulingIdGuide/" target="_blank"><img src="assets/BiofoulingIdGuide.gif" alt="Biofouling ID Guide preview" width="100%"/></a>
+<p>A visual field guide for identifying invasive marine species on vessel hulls, developed for commercial divers across Australia. Zero external dependencies.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/BiofoulingIdGuide/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/BiofoulingIdGuide" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | CSS | JavaScript</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>3D Ship Visualization</h3>
+<a href="https://mathew-harvey.github.io/3dShip/" target="_blank"><img src="assets/3dShip.gif" alt="3D Ship Visualization preview" width="100%"/></a>
+<p>Interactive 3D ship model rendered in the browser using Three.js — explore vessel anatomy with orbit controls, lighting, and realistic materials.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/3dShip/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/3dShip" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> Three.js | JavaScript | WebGL</p>
+</td>
+<td width="50%" valign="top">
+<h3>Fouling Cost Calculator</h3>
+<a href="https://mathew-harvey.github.io/FoulingCostCalculator/" target="_blank"><img src="assets/FoulingCostCalculator.gif" alt="Fouling Cost Calculator preview" width="100%"/></a>
+<p>Extends research from the University of Melbourne (Kevin et al., 2024) showing how even light fouling increases fuel use by 10%. Makes academic findings accessible for practical maritime decisions.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/FoulingCostCalculator/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/FoulingCostCalculator" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | JavaScript | Chart.js</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>FPV Track Planner</h3>
+<a href="https://mathew-harvey.github.io/FPVTrackPlanner/" target="_blank"><img src="assets/FPVTrackPlanner.gif" alt="FPV Track Planner preview" width="100%"/></a>
+<p>A 3D track designer for FPV drone racing — build gates, obstacles, and racing lines in a WebGL environment with real-world scale.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/FPVTrackPlanner/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/FPVTrackPlanner" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> Three.js | JavaScript | WebGL</p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
 ## Archive
 
 ### Maritime & Industry
 
-### MarineStream Workspace
-![Preview](assets/MarineStream-Workspace.gif)
-
-Unified maritime biofouling management portal with real-time fleet tracking, job management, and operational dashboards.
-
-**Links:** [Live Demo](https://MarineStream-Workspace.onrender.com) | [GitHub](https://github.com/Mathew-Harvey/MarineStream-Workspace)
-**Tech:** Node.js, Express, PostgreSQL, WebSocket, Mapbox
-
-### MarineStream Landing Page
-![Preview](assets/MarineStreamLandingPage.gif)
-
-Digital multi-party vessel maintenance platform landing page with responsive design and contact form.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/MarineStreamLandingPage/) | [GitHub](https://github.com/Mathew-Harvey/MarineStreamLandingPage)
-**Tech:** HTML, CSS, JavaScript
-
-### MarineStream
-![Preview](assets/MarineStream.gif)
-
-MarineStream product showcase and information portal.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/MarineStream/) | [GitHub](https://github.com/Mathew-Harvey/MarineStream)
-**Tech:** HTML
-
-### IWC Approval Portal
-![Preview](assets/IWC-Approval-Portal.gif)
-
-In-Water Cleaning Notification Package Generator for Franmarine Underwater Services.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/IWC-Approval-Portal/) | [GitHub](https://github.com/Mathew-Harvey/IWC-Approval-Portal)
-**Tech:** Node.js, Express, PostgreSQL, Clerk
-
-### BFMP Document Generator
-![Preview](assets/Document-Generator.gif)
-
-Biofouling Management Plan (BFMP) generator for maritime compliance documentation.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/Document-Generator/) | [GitHub](https://github.com/Mathew-Harvey/Document-Generator)
-**Tech:** JavaScript, Handlebars
-
-### BFMP Generator
-![Preview](assets/bfmpGenerator.gif)
-
-Client-side Biofouling Management Plan generator. Users fill out a form, upload a vessel photo, and receive a print-ready compliance document — fully serverless.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/bfmpGenerator/) | [GitHub](https://github.com/Mathew-Harvey/bfmpGenerator)
-**Tech:** HTML, Handlebars.js
-
-### In-Water Hull Cleaning
-![Preview](assets/iwhc_franmarine.gif)
-
-Client-side webpage showcasing in-water hull cleaning capabilities for Franmarine Underwater Services.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/iwhc_franmarine/) | [GitHub](https://github.com/Mathew-Harvey/iwhc_franmarine)
-**Tech:** HTML, CSS
-
-### IWHC Manual Companion
-![Preview](assets/IWHCManualCompanionApp.gif)
-
-Companion app for the In-Water Hull Cleaning training manual.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/IWHCManualCompanionApp/) | [GitHub](https://github.com/Mathew-Harvey/IWHCManualCompanionApp)
-**Tech:** HTML
-
-### The Hull Truth
-![Preview](assets/TheHullTruth.gif)
-
-Interactive calculator visualizing the impact of hull fouling on vessel fuel consumption and costs, based on 2024 University of Melbourne research.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/TheHullTruth/) | [GitHub](https://github.com/Mathew-Harvey/TheHullTruth)
-**Tech:** HTML, JavaScript
-
-### Clean Hulls, Clear Waters
-![Preview](assets/CleanHullsClearWaters.gif)
-
-Educational resource on hull maintenance and marine biosecurity.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/CleanHullsClearWaters/) | [GitHub](https://github.com/Mathew-Harvey/CleanHullsClearWaters)
-**Tech:** HTML
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>MarineStream Workspace</h3>
+<a href="https://MarineStream-Workspace.onrender.com" target="_blank"><img src="assets/MarineStream-Workspace.gif" alt="MarineStream Workspace preview" width="100%"/></a>
+<p>Unified maritime biofouling management portal with real-time fleet tracking, job management, and operational dashboards.</p>
+<p><strong>Links:</strong> <a href="https://MarineStream-Workspace.onrender.com" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/MarineStream-Workspace" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> Node.js | Express | PostgreSQL | WebSocket | Mapbox</p>
+</td>
+<td width="50%" valign="top">
+<h3>MarineStream Landing Page</h3>
+<a href="https://mathew-harvey.github.io/MarineStreamLandingPage/" target="_blank"><img src="assets/MarineStreamLandingPage.gif" alt="MarineStream Landing Page preview" width="100%"/></a>
+<p>Digital multi-party vessel maintenance platform landing page with responsive design and contact form.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/MarineStreamLandingPage/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/MarineStreamLandingPage" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | CSS | JavaScript</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>MarineStream</h3>
+<a href="https://mathew-harvey.github.io/MarineStream/" target="_blank"><img src="assets/MarineStream.gif" alt="MarineStream preview" width="100%"/></a>
+<p>MarineStream product showcase and information portal.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/MarineStream/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/MarineStream" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML</p>
+</td>
+<td width="50%" valign="top">
+<h3>IWC Approval Portal</h3>
+<a href="https://mathew-harvey.github.io/IWC-Approval-Portal/" target="_blank"><img src="assets/IWC-Approval-Portal.gif" alt="IWC Approval Portal preview" width="100%"/></a>
+<p>In-Water Cleaning Notification Package Generator for Franmarine Underwater Services.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/IWC-Approval-Portal/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/IWC-Approval-Portal" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> Node.js | Express | PostgreSQL | Clerk</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>BFMP Document Generator</h3>
+<a href="https://mathew-harvey.github.io/Document-Generator/" target="_blank"><img src="assets/Document-Generator.gif" alt="BFMP Document Generator preview" width="100%"/></a>
+<p>Biofouling Management Plan (BFMP) generator for maritime compliance documentation.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/Document-Generator/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/Document-Generator" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> JavaScript | Handlebars</p>
+</td>
+<td width="50%" valign="top">
+<h3>BFMP Generator</h3>
+<a href="https://mathew-harvey.github.io/bfmpGenerator/" target="_blank"><img src="assets/bfmpGenerator.gif" alt="BFMP Generator preview" width="100%"/></a>
+<p>Client-side Biofouling Management Plan generator. Users fill out a form, upload a vessel photo, and receive a print-ready compliance document — fully serverless.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/bfmpGenerator/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/bfmpGenerator" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | Handlebars.js</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>In-Water Hull Cleaning</h3>
+<a href="https://mathew-harvey.github.io/iwhc_franmarine/" target="_blank"><img src="assets/iwhc_franmarine.gif" alt="In-Water Hull Cleaning preview" width="100%"/></a>
+<p>Client-side webpage showcasing in-water hull cleaning capabilities for Franmarine Underwater Services.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/iwhc_franmarine/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/iwhc_franmarine" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | CSS</p>
+</td>
+<td width="50%" valign="top">
+<h3>IWHC Manual Companion</h3>
+<a href="https://mathew-harvey.github.io/IWHCManualCompanionApp/" target="_blank"><img src="assets/IWHCManualCompanionApp.gif" alt="IWHC Manual Companion preview" width="100%"/></a>
+<p>Companion app for the In-Water Hull Cleaning training manual.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/IWHCManualCompanionApp/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/IWHCManualCompanionApp" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>The Hull Truth</h3>
+<a href="https://mathew-harvey.github.io/TheHullTruth/" target="_blank"><img src="assets/TheHullTruth.gif" alt="The Hull Truth preview" width="100%"/></a>
+<p>Interactive calculator visualizing the impact of hull fouling on vessel fuel consumption and costs, based on 2024 University of Melbourne research.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/TheHullTruth/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/TheHullTruth" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | JavaScript</p>
+</td>
+<td width="50%" valign="top">
+<h3>Clean Hulls, Clear Waters</h3>
+<a href="https://mathew-harvey.github.io/CleanHullsClearWaters/" target="_blank"><img src="assets/CleanHullsClearWaters.gif" alt="Clean Hulls, Clear Waters preview" width="100%"/></a>
+<p>Educational resource on hull maintenance and marine biosecurity.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/CleanHullsClearWaters/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/CleanHullsClearWaters" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML</p>
+</td>
+</tr>
+</table>
 
 ### Simulations & Viz
 
-### Agentic Bubble Sort
-![Preview](assets/AgenticBubbleSort.gif)
-
-Inspired by Michael Levin's work on basal cognition — a bubble sort that adapts to different 'personality types,' demonstrating goal-directed behavior through local interactions.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/AgenticBubbleSort/) | [GitHub](https://github.com/Mathew-Harvey/AgenticBubbleSort)
-**Tech:** HTML, JavaScript
-
-### Ant Simulator
-![Preview](assets/AntSimulator.gif)
-
-An interactive ant colony simulation exploring emergent behavior through pheromone trails and swarm intelligence.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/AntSimulator/) | [GitHub](https://github.com/Mathew-Harvey/AntSimulator)
-**Tech:** HTML, JavaScript
-
-### Artificial Life
-![Preview](assets/Artificial-Life.gif)
-
-Browser-based particle life simulation exploring emergent behavior through attraction and repulsion forces between colored particle groups.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/Artificial-Life/) | [GitHub](https://github.com/Mathew-Harvey/Artificial-Life)
-**Tech:** JavaScript, Canvas
-
-### Cancer Simulator
-![Preview](assets/CancerSimulator.gif)
-
-Interactive bioelectric cancer simulation based on Dr. Michael Levin's research framework.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/CancerSimulator/) | [GitHub](https://github.com/Mathew-Harvey/CancerSimulator)
-**Tech:** HTML, JavaScript
-
-### Game of Life
-![Preview](assets/GameOfLife.gif)
-
-Conway's Game of Life implemented in the browser with adjustable parameters and preset patterns.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/GameOfLife/) | [GitHub](https://github.com/Mathew-Harvey/GameOfLife)
-**Tech:** HTML, JavaScript
-
-### One Human Life
-![Preview](assets/One-Human-Life-React.gif)
-
-Visualization of a human lifespan in weeks — a grid of colored cells based on your age, making time tangible.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/One-Human-Life-React/) | [GitHub](https://github.com/Mathew-Harvey/One-Human-Life-React)
-**Tech:** React, JavaScript
-
-### Moltbook Throng
-![Preview](assets/Moltbook-Throng.gif)
-
-Real-time AI agent visualization — animated pixel creatures representing different AI models interacting across communities.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/Moltbook-Throng/) | [GitHub](https://github.com/Mathew-Harvey/Moltbook-Throng)
-**Tech:** HTML, JavaScript
-
-### Consciousness Framework
-![Preview](assets/A-New-Framework-for-Understanding-Consciousness.gif)
-
-Recursive Observation and Biochemical Weighting — an interactive exploration of a new framework for understanding consciousness.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/A-New-Framework-for-Understanding-Consciousness/) | [GitHub](https://github.com/Mathew-Harvey/A-New-Framework-for-Understanding-Consciousness)
-**Tech:** HTML
-
-### Stages of Mind
-![Preview](assets/StagesOfMind.gif)
-
-Explore cognitive expansion through seven developmental stages based on Robert Kegan's and Joscha Bach's frameworks.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/StagesOfMind/) | [GitHub](https://github.com/Mathew-Harvey/StagesOfMind)
-**Tech:** HTML, CSS
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Agentic Bubble Sort</h3>
+<a href="https://mathew-harvey.github.io/AgenticBubbleSort/" target="_blank"><img src="assets/AgenticBubbleSort.gif" alt="Agentic Bubble Sort preview" width="100%"/></a>
+<p>Inspired by Michael Levin's work on basal cognition — a bubble sort that adapts to different 'personality types,' demonstrating goal-directed behavior through local interactions.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/AgenticBubbleSort/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/AgenticBubbleSort" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | JavaScript</p>
+</td>
+<td width="50%" valign="top">
+<h3>Ant Simulator</h3>
+<a href="https://mathew-harvey.github.io/AntSimulator/" target="_blank"><img src="assets/AntSimulator.gif" alt="Ant Simulator preview" width="100%"/></a>
+<p>An interactive ant colony simulation exploring emergent behavior through pheromone trails and swarm intelligence.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/AntSimulator/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/AntSimulator" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | JavaScript</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Artificial Life</h3>
+<a href="https://mathew-harvey.github.io/Artificial-Life/" target="_blank"><img src="assets/Artificial-Life.gif" alt="Artificial Life preview" width="100%"/></a>
+<p>Browser-based particle life simulation exploring emergent behavior through attraction and repulsion forces between colored particle groups.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/Artificial-Life/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/Artificial-Life" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> JavaScript | Canvas</p>
+</td>
+<td width="50%" valign="top">
+<h3>Cancer Simulator</h3>
+<a href="https://mathew-harvey.github.io/CancerSimulator/" target="_blank"><img src="assets/CancerSimulator.gif" alt="Cancer Simulator preview" width="100%"/></a>
+<p>Interactive bioelectric cancer simulation based on Dr. Michael Levin's research framework.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/CancerSimulator/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/CancerSimulator" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | JavaScript</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Game of Life</h3>
+<a href="https://mathew-harvey.github.io/GameOfLife/" target="_blank"><img src="assets/GameOfLife.gif" alt="Game of Life preview" width="100%"/></a>
+<p>Conway's Game of Life implemented in the browser with adjustable parameters and preset patterns.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/GameOfLife/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/GameOfLife" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | JavaScript</p>
+</td>
+<td width="50%" valign="top">
+<h3>One Human Life</h3>
+<a href="https://mathew-harvey.github.io/One-Human-Life-React/" target="_blank"><img src="assets/One-Human-Life-React.gif" alt="One Human Life preview" width="100%"/></a>
+<p>Visualization of a human lifespan in weeks — a grid of colored cells based on your age, making time tangible.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/One-Human-Life-React/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/One-Human-Life-React" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> React | JavaScript</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Moltbook Throng</h3>
+<a href="https://mathew-harvey.github.io/Moltbook-Throng/" target="_blank"><img src="assets/Moltbook-Throng.gif" alt="Moltbook Throng preview" width="100%"/></a>
+<p>Real-time AI agent visualization — animated pixel creatures representing different AI models interacting across communities.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/Moltbook-Throng/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/Moltbook-Throng" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | JavaScript</p>
+</td>
+<td width="50%" valign="top">
+<h3>Consciousness Framework</h3>
+<a href="https://mathew-harvey.github.io/A-New-Framework-for-Understanding-Consciousness/" target="_blank"><img src="assets/A-New-Framework-for-Understanding-Consciousness.gif" alt="Consciousness Framework preview" width="100%"/></a>
+<p>Recursive Observation and Biochemical Weighting — an interactive exploration of a new framework for understanding consciousness.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/A-New-Framework-for-Understanding-Consciousness/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/A-New-Framework-for-Understanding-Consciousness" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Stages of Mind</h3>
+<a href="https://mathew-harvey.github.io/StagesOfMind/" target="_blank"><img src="assets/StagesOfMind.gif" alt="Stages of Mind preview" width="100%"/></a>
+<p>Explore cognitive expansion through seven developmental stages based on Robert Kegan's and Joscha Bach's frameworks.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/StagesOfMind/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/StagesOfMind" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | CSS</p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
 ### Tools & Utilities
 
-### Blurred Photos
-![Preview](assets/BlurredPhotos.gif)
-
-Simple web application to blur photos with a C# ASP.NET Core backend.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/BlurredPhotos/) | [GitHub](https://github.com/Mathew-Harvey/BlurredPhotos)
-**Tech:** C#, ASP.NET, JavaScript
-
-### Image Compressor
-![Preview](assets/SimpleImageComression.gif)
-
-Browser-based bulk image compressor — compresses images to ~300KB and packages them into a ZIP file. Fully local.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/SimpleImageComression/) | [GitHub](https://github.com/Mathew-Harvey/SimpleImageComression)
-**Tech:** HTML, JavaScript
-
-### FormSync
-![Preview](assets/FormSync.gif)
-
-Collaborative form concept with integrated video sharing capabilities.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/FormSync/) | [GitHub](https://github.com/Mathew-Harvey/FormSync)
-**Tech:** JavaScript
-
-### Net Connection Monitor
-![Preview](assets/NetConnectionMonitor.gif)
-
-Monitor your internet connection quality over time with visual graphs and alerts.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/NetConnectionMonitor/) | [GitHub](https://github.com/Mathew-Harvey/NetConnectionMonitor)
-**Tech:** HTML, JavaScript
-
-### VR Sim Racing Calculator
-![Preview](assets/VrSimRacingCalc.gif)
-
-Calculator for modeling GPU requirements for VR sim racing setups.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/VrSimRacingCalc/) | [GitHub](https://github.com/Mathew-Harvey/VrSimRacingCalc)
-**Tech:** HTML, JavaScript
-
-### Web Disk Analyser
-![Preview](assets/WebDiskAnalyser.gif)
-
-Browser-based disk usage analyzer for visualizing file system space allocation.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/WebDiskAnalyser/) | [GitHub](https://github.com/Mathew-Harvey/WebDiskAnalyser)
-**Tech:** HTML, JavaScript
-
-### Document Engine
-![Preview](assets/DocumentEngine.gif)
-
-A document generation engine for creating structured, template-based documents.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/DocumentEngine/) | [GitHub](https://github.com/Mathew-Harvey/DocumentEngine)
-**Tech:** HTML, JavaScript
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Blurred Photos</h3>
+<a href="https://mathew-harvey.github.io/BlurredPhotos/" target="_blank"><img src="assets/BlurredPhotos.gif" alt="Blurred Photos preview" width="100%"/></a>
+<p>Simple web application to blur photos with a C# ASP.NET Core backend.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/BlurredPhotos/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/BlurredPhotos" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> C# | ASP.NET | JavaScript</p>
+</td>
+<td width="50%" valign="top">
+<h3>Image Compressor</h3>
+<a href="https://mathew-harvey.github.io/SimpleImageComression/" target="_blank"><img src="assets/SimpleImageComression.gif" alt="Image Compressor preview" width="100%"/></a>
+<p>Browser-based bulk image compressor — compresses images to ~300KB and packages them into a ZIP file. Fully local.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/SimpleImageComression/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/SimpleImageComression" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | JavaScript</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>FormSync</h3>
+<a href="https://mathew-harvey.github.io/FormSync/" target="_blank"><img src="assets/FormSync.gif" alt="FormSync preview" width="100%"/></a>
+<p>Collaborative form concept with integrated video sharing capabilities.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/FormSync/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/FormSync" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> JavaScript</p>
+</td>
+<td width="50%" valign="top">
+<h3>Net Connection Monitor</h3>
+<a href="https://mathew-harvey.github.io/NetConnectionMonitor/" target="_blank"><img src="assets/NetConnectionMonitor.gif" alt="Net Connection Monitor preview" width="100%"/></a>
+<p>Monitor your internet connection quality over time with visual graphs and alerts.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/NetConnectionMonitor/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/NetConnectionMonitor" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | JavaScript</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>VR Sim Racing Calculator</h3>
+<a href="https://mathew-harvey.github.io/VrSimRacingCalc/" target="_blank"><img src="assets/VrSimRacingCalc.gif" alt="VR Sim Racing Calculator preview" width="100%"/></a>
+<p>Calculator for modeling GPU requirements for VR sim racing setups.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/VrSimRacingCalc/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/VrSimRacingCalc" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | JavaScript</p>
+</td>
+<td width="50%" valign="top">
+<h3>Web Disk Analyser</h3>
+<a href="https://mathew-harvey.github.io/WebDiskAnalyser/" target="_blank"><img src="assets/WebDiskAnalyser.gif" alt="Web Disk Analyser preview" width="100%"/></a>
+<p>Browser-based disk usage analyzer for visualizing file system space allocation.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/WebDiskAnalyser/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/WebDiskAnalyser" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | JavaScript</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Document Engine</h3>
+<a href="https://mathew-harvey.github.io/DocumentEngine/" target="_blank"><img src="assets/DocumentEngine.gif" alt="Document Engine preview" width="100%"/></a>
+<p>A document generation engine for creating structured, template-based documents.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/DocumentEngine/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/DocumentEngine" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | JavaScript</p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
 ### Personal & Creative
 
-### Cat Translator
-![Preview](assets/CatTranslator.gif)
-
-Plays real cat vocalizations to help you communicate with your cat. Science-adjacent and delightful.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/CatTranslator/) | [GitHub](https://github.com/Mathew-Harvey/CatTranslator)
-**Tech:** HTML, Web Audio
-
-### Elodie's Book: Chapter One
-![Preview](assets/ElodieBook_One.gif)
-
-Interactive digital storybook about a tawny frogmouth owl making snake stew, featuring AI-generated illustrations and page-turning animations.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/ElodieBook_One/) | [GitHub](https://github.com/Mathew-Harvey/ElodieBook_One)
-**Tech:** HTML, CSS, JavaScript
-
-### Elodie's Book: Chapter Two
-![Preview](assets/ElodieBook_Two.gif)
-
-Interactive digital children's storybook with page-turning animations — created from a handwritten story by a 6-year-old.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/ElodieBook_Two/) | [GitHub](https://github.com/Mathew-Harvey/ElodieBook_Two)
-**Tech:** HTML, CSS, JavaScript
-
-### Extreme Limit Films
-![Preview](assets/ExtremeLimitFilms.gif)
-
-Homepage for Extreme Limit Films production company.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/ExtremeLimitFilms/) | [GitHub](https://github.com/Mathew-Harvey/ExtremeLimitFilms)
-**Tech:** HTML, CSS
-
-### Family Hiking
-![Preview](assets/FamilyHiking.gif)
-
-A family hiking adventure website for the Bibbulmun Track in Western Australia with interactive maps.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/FamilyHiking/) | [GitHub](https://github.com/Mathew-Harvey/FamilyHiking)
-**Tech:** HTML, Tailwind, Leaflet.js
-
-### Koi Runner
-![Preview](assets/KoiRunner.gif)
-
-Endless runner game — control a koi fish swimming through an underwater environment, avoiding obstacles and collecting larvae.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/KoiRunner/) | [GitHub](https://github.com/Mathew-Harvey/KoiRunner)
-**Tech:** HTML, Canvas, JavaScript
-
-### Japan Itinerary
-![Preview](assets/JapanItinery.gif)
-
-Mobile-first itinerary planner for a 4-day Tokyo family trip with translation tools, currency conversion, and dark mode.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/JapanItinery/) | [GitHub](https://github.com/Mathew-Harvey/JapanItinery)
-**Tech:** JavaScript
-
-### West Coast Multi Rotor Club
-![Preview](assets/WestCoastMultiRotorClub.gif)
-
-Drone racing club website for Western Australia.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/WestCoastMultiRotorClub/) | [GitHub](https://github.com/Mathew-Harvey/WestCoastMultiRotorClub)
-**Tech:** HTML, CSS, JavaScript
-
-### Virtual Property Tour
-![Preview](assets/VirtualPropertyTour.gif)
-
-An immersive virtual property tour experience built for the web.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/VirtualPropertyTour/) | [GitHub](https://github.com/Mathew-Harvey/VirtualPropertyTour)
-**Tech:** HTML, JavaScript
-
-### Portfolio 2025
-![Preview](assets/Mat-Portfolio-2025.gif)
-
-Previous iteration of this portfolio, designed and written by Claude AI.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/Mat-Portfolio-2025/) | [GitHub](https://github.com/Mathew-Harvey/Mat-Portfolio-2025)
-**Tech:** HTML, CSS
-
-### House Sitter Guide
-![Preview](assets/HouseSitter.gif)
-
-Comprehensive house & pet sitting guide — emergency contacts, pet care, schedules, and local info.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/HouseSitter/) | [GitHub](https://github.com/Mathew-Harvey/HouseSitter)
-**Tech:** HTML, CSS
-
-### Skye's Portfolio
-![Preview](assets/SkyePortfolio.gif)
-
-A portfolio website built for Skye.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/SkyePortfolio/) | [GitHub](https://github.com/Mathew-Harvey/SkyePortfolio)
-**Tech:** HTML, CSS
-
-### My Stuff
-![Preview](assets/MyStuffHere.gif)
-
-A curated collection of software projects.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/MyStuffHere/) | [GitHub](https://github.com/Mathew-Harvey/MyStuffHere)
-**Tech:** JavaScript
-
-### Only Prints
-![Preview](assets/OnlyPrints.gif)
-
-A print-focused web project built for Tim.
-
-**Links:** [Live Demo](https://mathew-harvey.github.io/OnlyPrints/) | [GitHub](https://github.com/Mathew-Harvey/OnlyPrints)
-**Tech:** HTML
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Cat Translator</h3>
+<a href="https://mathew-harvey.github.io/CatTranslator/" target="_blank"><img src="assets/CatTranslator.gif" alt="Cat Translator preview" width="100%"/></a>
+<p>Plays real cat vocalizations to help you communicate with your cat. Science-adjacent and delightful.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/CatTranslator/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/CatTranslator" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | Web Audio</p>
+</td>
+<td width="50%" valign="top">
+<h3>Elodie's Book: Chapter One</h3>
+<a href="https://mathew-harvey.github.io/ElodieBook_One/" target="_blank"><img src="assets/ElodieBook_One.gif" alt="Elodie's Book: Chapter One preview" width="100%"/></a>
+<p>Interactive digital storybook about a tawny frogmouth owl making snake stew, featuring AI-generated illustrations and page-turning animations.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/ElodieBook_One/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/ElodieBook_One" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | CSS | JavaScript</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Elodie's Book: Chapter Two</h3>
+<a href="https://mathew-harvey.github.io/ElodieBook_Two/" target="_blank"><img src="assets/ElodieBook_Two.gif" alt="Elodie's Book: Chapter Two preview" width="100%"/></a>
+<p>Interactive digital children's storybook with page-turning animations — created from a handwritten story by a 6-year-old.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/ElodieBook_Two/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/ElodieBook_Two" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | CSS | JavaScript</p>
+</td>
+<td width="50%" valign="top">
+<h3>Extreme Limit Films</h3>
+<a href="https://mathew-harvey.github.io/ExtremeLimitFilms/" target="_blank"><img src="assets/ExtremeLimitFilms.gif" alt="Extreme Limit Films preview" width="100%"/></a>
+<p>Homepage for Extreme Limit Films production company.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/ExtremeLimitFilms/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/ExtremeLimitFilms" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | CSS</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Family Hiking</h3>
+<a href="https://mathew-harvey.github.io/FamilyHiking/" target="_blank"><img src="assets/FamilyHiking.gif" alt="Family Hiking preview" width="100%"/></a>
+<p>A family hiking adventure website for the Bibbulmun Track in Western Australia with interactive maps.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/FamilyHiking/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/FamilyHiking" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | Tailwind | Leaflet.js</p>
+</td>
+<td width="50%" valign="top">
+<h3>Koi Runner</h3>
+<a href="https://mathew-harvey.github.io/KoiRunner/" target="_blank"><img src="assets/KoiRunner.gif" alt="Koi Runner preview" width="100%"/></a>
+<p>Endless runner game — control a koi fish swimming through an underwater environment, avoiding obstacles and collecting larvae.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/KoiRunner/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/KoiRunner" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | Canvas | JavaScript</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Japan Itinerary</h3>
+<a href="https://mathew-harvey.github.io/JapanItinery/" target="_blank"><img src="assets/JapanItinery.gif" alt="Japan Itinerary preview" width="100%"/></a>
+<p>Mobile-first itinerary planner for a 4-day Tokyo family trip with translation tools, currency conversion, and dark mode.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/JapanItinery/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/JapanItinery" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> JavaScript</p>
+</td>
+<td width="50%" valign="top">
+<h3>West Coast Multi Rotor Club</h3>
+<a href="https://mathew-harvey.github.io/WestCoastMultiRotorClub/" target="_blank"><img src="assets/WestCoastMultiRotorClub.gif" alt="West Coast Multi Rotor Club preview" width="100%"/></a>
+<p>Drone racing club website for Western Australia.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/WestCoastMultiRotorClub/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/WestCoastMultiRotorClub" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | CSS | JavaScript</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Virtual Property Tour</h3>
+<a href="https://mathew-harvey.github.io/VirtualPropertyTour/" target="_blank"><img src="assets/VirtualPropertyTour.gif" alt="Virtual Property Tour preview" width="100%"/></a>
+<p>An immersive virtual property tour experience built for the web.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/VirtualPropertyTour/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/VirtualPropertyTour" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | JavaScript</p>
+</td>
+<td width="50%" valign="top">
+<h3>Portfolio 2025</h3>
+<a href="https://mathew-harvey.github.io/Mat-Portfolio-2025/" target="_blank"><img src="assets/Mat-Portfolio-2025.gif" alt="Portfolio 2025 preview" width="100%"/></a>
+<p>Previous iteration of this portfolio, designed and written by Claude AI.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/Mat-Portfolio-2025/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/Mat-Portfolio-2025" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | CSS</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>House Sitter Guide</h3>
+<a href="https://mathew-harvey.github.io/HouseSitter/" target="_blank"><img src="assets/HouseSitter.gif" alt="House Sitter Guide preview" width="100%"/></a>
+<p>Comprehensive house &amp; pet sitting guide — emergency contacts, pet care, schedules, and local info.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/HouseSitter/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/HouseSitter" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | CSS</p>
+</td>
+<td width="50%" valign="top">
+<h3>Skye's Portfolio</h3>
+<a href="https://mathew-harvey.github.io/SkyePortfolio/" target="_blank"><img src="assets/SkyePortfolio.gif" alt="Skye's Portfolio preview" width="100%"/></a>
+<p>A portfolio website built for Skye.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/SkyePortfolio/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/SkyePortfolio" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | CSS</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>My Stuff</h3>
+<a href="https://mathew-harvey.github.io/MyStuffHere/" target="_blank"><img src="assets/MyStuffHere.gif" alt="My Stuff preview" width="100%"/></a>
+<p>A curated collection of software projects.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/MyStuffHere/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/MyStuffHere" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> JavaScript</p>
+</td>
+<td width="50%" valign="top">
+<h3>Only Prints</h3>
+<a href="https://mathew-harvey.github.io/OnlyPrints/" target="_blank"><img src="assets/OnlyPrints.gif" alt="Only Prints preview" width="100%"/></a>
+<p>A print-focused web project built for Tim.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/OnlyPrints/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/OnlyPrints" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML</p>
+</td>
+</tr>
+</table>
 
 ## Asset-Only GIF Archive
 
-These GIFs are in assets but are not mapped in the projects array in index.html.
+These GIFs exist in `assets` but are not currently mapped in the `projects` array in `index.html`.
 
-### AI Gym
-![Preview](assets/AI-Gym.gif)
-
-Standalone asset preview.
-
-### Avi Fullstackcode Workshop
-![Preview](assets/Avi-fullstackcode-workshop.gif)
-
-Standalone asset preview.
-
-### Beatbox Craft
-![Preview](assets/beatbox-craft.gif)
-
-Standalone asset preview.
-
-### BlurImage
-![Preview](assets/blurImage.gif)
-
-Standalone asset preview.
-
-### Chat
-![Preview](assets/chat.gif)
-
-Standalone asset preview.
-
-### Complexity
-![Preview](assets/complexity.gif)
-
-Standalone asset preview.
-
-### ComplexityOLD
-![Preview](assets/complexityOLD.gif)
-
-Standalone asset preview.
-
-### DotnetAPILesson
-![Preview](assets/dotnetAPILesson.gif)
-
-Standalone asset preview.
-
-### FamilyBudgetTracking
-![Preview](assets/FamilyBudgetTracking.gif)
-
-Standalone asset preview.
-
-### Gol
-![Preview](assets/gol.gif)
-
-Standalone asset preview.
-
-### MoneyMachine
-![Preview](assets/MoneyMachine.gif)
-
-Standalone asset preview.
-
-### MongoDbCloneLocal
-![Preview](assets/MongoDbCloneLocal.gif)
-
-Standalone asset preview.
-
-### MsSubscriptionUI
-![Preview](assets/MsSubscriptionUI.gif)
-
-Standalone asset preview.
-
-### MyLifeinWeeksDemo
-![Preview](assets/myLifeinWeeksDemo.gif)
-
-Standalone asset preview.
-
-### Portfolio
-![Preview](assets/Portfolio.gif)
-
-Standalone asset preview.
-
-### SingletonDP
-![Preview](assets/singletonDP.gif)
-
-Standalone asset preview.
-
-### StringSearchReplace
-![Preview](assets/StringSearchReplace.gif)
-
-Standalone asset preview.
-
-### TempForKel
-![Preview](assets/tempForKel.gif)
-
-Standalone asset preview.
-
-### TempPricing
-![Preview](assets/tempPricing.gif)
-
-Standalone asset preview.
-
-### UUID Check And Correct
-![Preview](assets/UUID_Check_and_Correct.gif)
-
-Standalone asset preview.
-
-### UUID Find Replace
-![Preview](assets/UUID_find_replace.gif)
-
-Standalone asset preview.
-
-### WebRTC
-![Preview](assets/webRTC.gif)
-
-Standalone asset preview.
-
-### Wishlistdemo
-![Preview](assets/wishlistdemo.gif)
-
-Standalone asset preview.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>AI Gym</h3>
+<img src="assets/AI-Gym.gif" alt="AI Gym preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+<td width="50%" valign="top">
+<h3>Avi Fullstackcode Workshop</h3>
+<img src="assets/Avi-fullstackcode-workshop.gif" alt="Avi Fullstackcode Workshop preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Beatbox Craft</h3>
+<img src="assets/beatbox-craft.gif" alt="Beatbox Craft preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+<td width="50%" valign="top">
+<h3>BlurImage</h3>
+<img src="assets/blurImage.gif" alt="BlurImage preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Chat</h3>
+<img src="assets/chat.gif" alt="Chat preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+<td width="50%" valign="top">
+<h3>Complexity</h3>
+<img src="assets/complexity.gif" alt="Complexity preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>ComplexityOLD</h3>
+<img src="assets/complexityOLD.gif" alt="ComplexityOLD preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+<td width="50%" valign="top">
+<h3>DotnetAPILesson</h3>
+<img src="assets/dotnetAPILesson.gif" alt="DotnetAPILesson preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>FamilyBudgetTracking</h3>
+<img src="assets/FamilyBudgetTracking.gif" alt="FamilyBudgetTracking preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+<td width="50%" valign="top">
+<h3>Gol</h3>
+<img src="assets/gol.gif" alt="Gol preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>MoneyMachine</h3>
+<img src="assets/MoneyMachine.gif" alt="MoneyMachine preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+<td width="50%" valign="top">
+<h3>MongoDbCloneLocal</h3>
+<img src="assets/MongoDbCloneLocal.gif" alt="MongoDbCloneLocal preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>MsSubscriptionUI</h3>
+<img src="assets/MsSubscriptionUI.gif" alt="MsSubscriptionUI preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+<td width="50%" valign="top">
+<h3>MyLifeinWeeksDemo</h3>
+<img src="assets/myLifeinWeeksDemo.gif" alt="MyLifeinWeeksDemo preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Portfolio</h3>
+<img src="assets/Portfolio.gif" alt="Portfolio preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+<td width="50%" valign="top">
+<h3>SingletonDP</h3>
+<img src="assets/singletonDP.gif" alt="SingletonDP preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>StringSearchReplace</h3>
+<img src="assets/StringSearchReplace.gif" alt="StringSearchReplace preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+<td width="50%" valign="top">
+<h3>TempForKel</h3>
+<img src="assets/tempForKel.gif" alt="TempForKel preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>TempPricing</h3>
+<img src="assets/tempPricing.gif" alt="TempPricing preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+<td width="50%" valign="top">
+<h3>UUID Check And Correct</h3>
+<img src="assets/UUID_Check_and_Correct.gif" alt="UUID Check And Correct preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>UUID Find Replace</h3>
+<img src="assets/UUID_find_replace.gif" alt="UUID Find Replace preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+<td width="50%" valign="top">
+<h3>WebRTC</h3>
+<img src="assets/webRTC.gif" alt="WebRTC preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Wishlistdemo</h3>
+<img src="assets/wishlistdemo.gif" alt="Wishlistdemo preview" width="100%"/>
+<p><em>Standalone asset preview.</em></p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
