@@ -22,10 +22,11 @@ My day job is maritime and environmental software. What follows is the personal 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>Vessel Location Collector</h3>
-<p>A continuous AIS ingestion service that collects, deduplicates and stores global vessel position data. Handles unreliable upstream feeds, out-of-order messages, and the reality that maritime data sources go down without telling you.</p>
-<p><strong>Links:</strong> <a href="https://github.com/Mathew-Harvey/VesselLocationCollector" target="_blank">GitHub</a></p>
-<p><strong>Tech:</strong> Node.js | PostgreSQL | AIS</p>
+<h3>Agentic Bubble Sort</h3>
+<a href="https://mathew-harvey.github.io/AgenticBubbleSort/" target="_blank"><img src="assets/AgenticBubbleSort.gif" alt="Agentic Bubble Sort preview" width="100%"/></a>
+<p>Inspired by Michael Levin's work on basal cognition. A bubble sort where each element is given a "personality", producing goal-directed behaviour from nothing but local interactions.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/AgenticBubbleSort/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/AgenticBubbleSort" target="_blank">GitHub</a></p>
+<p><strong>Tech:</strong> HTML | JavaScript</p>
 </td>
 <td width="50%" valign="top">
 <h3>FPV Track Planner</h3>
@@ -60,10 +61,10 @@ My day job is maritime and environmental software. What follows is the personal 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>Agentic Bubble Sort</h3>
-<a href="https://mathew-harvey.github.io/AgenticBubbleSort/" target="_blank"><img src="assets/AgenticBubbleSort.gif" alt="Agentic Bubble Sort preview" width="100%"/></a>
-<p>Inspired by Michael Levin's work on basal cognition. A bubble sort that adapts to different "personality types", demonstrating goal-directed behaviour through local interactions.</p>
-<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/AgenticBubbleSort/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/AgenticBubbleSort" target="_blank">GitHub</a></p>
+<h3>Complexity</h3>
+<a href="https://mathew-harvey.github.io/complexity/" target="_blank"><img src="assets/complexity.gif" alt="Complexity preview" width="100%"/></a>
+<p>A visual exploration of complexity and emergent structure in the browser.</p>
+<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/complexity/" target="_blank">Live Demo</a></p>
 <p><strong>Tech:</strong> HTML | JavaScript</p>
 </td>
 <td width="50%" valign="top">
@@ -130,13 +131,7 @@ My day job is maritime and environmental software. What follows is the personal 
 <p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/3dShip/" target="_blank">Live Demo</a> | <a href="https://github.com/Mathew-Harvey/3dShip" target="_blank">GitHub</a></p>
 <p><strong>Tech:</strong> Three.js | JavaScript | WebGL</p>
 </td>
-<td width="50%" valign="top">
-<h3>Complexity</h3>
-<a href="https://mathew-harvey.github.io/complexity/" target="_blank"><img src="assets/complexity.gif" alt="Complexity preview" width="100%"/></a>
-<p>A visual exploration of complexity and emergent structure in the browser.</p>
-<p><strong>Links:</strong> <a href="https://mathew-harvey.github.io/complexity/" target="_blank">Live Demo</a></p>
-<p><strong>Tech:</strong> HTML | JavaScript</p>
-</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
