@@ -2,7 +2,7 @@
 
 # Mat Harvey
 
-### Data Scientist | Software Engineer | Marine Scientist | CTO @ MarineStream
+### Data Scientist | Software Engineer | Marine Scientist
 
 Scientist first, developer since. Marine science taught me to distrust a number until I know how it was measured, data science taught me what to do with it once I do, and software engineering is how it reaches anybody else.
 I build systems that turn messy operational reality into software people actually trust.
@@ -14,7 +14,7 @@ I use AI heavily as a tool. It does not do the thinking for me.
 
 </div>
 
-My day job is maritime and environmental software. What follows is the personal side of the workbench: data pipelines, simulations, visualisations, small tools, and a couple of things made for my kids.
+My day job is data and software. What follows is the personal side of the workbench: data pipelines, simulations, visualisations, small tools, and a couple of things made for my kids.
 
 ---
 
