@@ -8,10 +8,6 @@ Scientist first, developer since. Marine science taught me to distrust a number 
 I build systems that turn messy operational reality into software people actually trust.
 I use AI heavily as a tool. It does not do the thinking for me.
 
----
-
-## Live
-
 <table>
 <tr>
 <td width="50%" valign="top">
