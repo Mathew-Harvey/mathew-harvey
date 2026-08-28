@@ -12,8 +12,6 @@ I use AI heavily as a tool. It does not do the thinking for me.
 
 ## Live
 
-Four of these have their own domain, their own users and their own uptime to worry about. Everything further down is the workbench they came out of.
-
 <table>
 <tr>
 <td width="50%" valign="top">
