@@ -4,7 +4,7 @@
 
 ### Data Scientist | Software Engineer | Marine Scientist
 
-Scientist first, developer since. Marine science taught me to distrust a number until I know how it was measured, data science taught me what to do with it once I do, and software engineering is how it reaches anybody else.
+Scientist first, developer since 2018. Marine science taught me to distrust a number until I know how it was measured, data science taught me what to do with it once I do, and software engineering is how it reaches anybody else.
 I build systems that turn messy operational reality into software people actually trust.
 I use AI heavily as a tool. It does not do the thinking for me.
 
